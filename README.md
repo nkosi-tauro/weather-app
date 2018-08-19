@@ -3,12 +3,12 @@ Challenge #1 vs [@Yaseen Davids](https://github.com/Yaseen-Davids).
 
 **Packages Used**
 
-Express  
-Ejs  
-Body-parser  
-Request  
+React  
+Bootstrap  
+React-DOM  
+React-Scripts    
 
-## Built With Vanilla JavaScript
+## Built With React
 
 
 
